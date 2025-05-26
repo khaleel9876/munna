@@ -11,3 +11,19 @@ Nodejs----NPM
 dart----programming language for flutter
 
 flutter----same code mobile web and ios
+2. it will also compile the source code
+
+syntax errors-----it will identify the systax errors in compile stage
+
+3.tesings----unit tesings
+
+
+maven----unit testing and integration testing
+
+unit testing----small part of application
+integrating testing----all
+
+
+java----pom.xml ----project object model
+
+it is developed by developer
